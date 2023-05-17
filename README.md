@@ -1,3 +1,3 @@
 #Coding
 
-Coding requires a lot of patients
+Coding requires a lot of patients.
