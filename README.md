@@ -8,4 +8,4 @@ I developed my coding skills through practice
 
 ## mobile app development
 
-Learn Something new.
+Learn Something new!
